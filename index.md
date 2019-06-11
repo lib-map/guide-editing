@@ -21,7 +21,7 @@ ArcGIS Pro enables users to edit existing vector data. The three most common edi
 In order to use the editing tools in ArcGIS Pro, be sure to open a project with existing vector data or create new vector data using the digitization tools. 
 
 ### Auto-Complete Polygon
-Auto-complete digitizing allows a polygon to be created that abudts another existing polygon. This means the shared line does not have to be digitized more than once, which can lead to complications such a slivers. 
+Auto-complete digitizing allows a polygon to be created that abudts an existing polygon. This means the shared line does not have to be digitized more than once, which can lead to complications such a slivers. 
 
 1. To autocomplete a polygon, open the *Create Features* pane and select **Autocomplete Polygon**.
 
@@ -36,7 +36,7 @@ Auto-complete digitizing allows a polygon to be created that abudts another exis
 ![AutoC2](images/AutoC2.PNG)
 
 ### Merge
-Merging is a tool that allows different features to be merged into one.
+Merge is a tool that allows different features to be combined into one.
 
 1. To merge digitized features, click **Merge** under the *Edit* tab. 
 
@@ -79,7 +79,7 @@ Be sure to save your work periodically. The save icon in the top left corner of 
 ![SaveEdits](images/SaveEdits.PNG)
 
 ## Conclusion
-ArcGIS Pro offers many tools that are useful for digitizing and editing data. 
+ArcGIS Pro offers many tools that are useful for editing data. 
 
 ## Further Reading/Resources
 
