@@ -15,9 +15,10 @@ Created by [OSU Maps and Spatial Data](https://info.library.okstate.edu/map-room
 - Further Reading/Resources
 
 ## Introduction
-ArcGIS Pro enables users to edit vector data. The three most common editing tools are auto-complete polygon, merge and split.
+ArcGIS Pro enables users to edit existing vector data. The three most common editing tools are auto-complete polygon, merge and split.
 
 ## *[Editing in ArcGIS Pro]*
+In order to use the editing tools in ArcGIS Pro, be sure to open a project with existing vector data or create new vector data using the digitization tools. 
 
 ### Auto-Complete Polygon
 Auto-complete digitizing allows a polygon to be created that abudts another existing polygon. This means the shared line does not have to be digitized more than once, which can lead to complications such a slivers. 
